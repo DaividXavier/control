@@ -14,11 +14,11 @@ export default function HomeScreen(){
 
 
         <View style={styles.cardsContainer}>
-        <Text style={styles.cardReceber}>Constas a Receber</Text>
+        <Text style={styles.cardReceber}>Contas a Receber</Text>
         <Text style={styles.cardValue}>R$ 0,00</Text>
         </View>
 <View style={styles.cardPagar}>
-            <Text style={styles.cardTitle}>Constas a Pagar</Text>
+            <Text style={styles.cardTitle}>Contas a Pagar</Text>
         <Text style={styles.cardValue}>R$ 0,00</Text>
 </View>
 </View>
